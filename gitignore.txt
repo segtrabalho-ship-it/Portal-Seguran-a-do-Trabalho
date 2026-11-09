@@ -1,0 +1,6 @@
+*.sql
+*.bak
+.wrangler/
+node_modules/
+.env
+.dev.vars
